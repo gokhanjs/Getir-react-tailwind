@@ -27,7 +27,7 @@ export default function Header() {
                 </div>
 
             </div>
-            <div className='container mx-auto flex md:hidden items-center px-2 h-10 justify-between'>
+            <div className='md:container flex md:hidden items-center px-2 h-10 justify-between'>
                 <div className='flex items-center gap-x-2 text-sm font-semibold text-gray-800'>
                     <HiLocationMarker size={18} className="text-primary-brand-color" />
                     Teslimat Adresi Belirle
